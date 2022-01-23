@@ -1,2 +1,11 @@
 installing vite command
-# npm init vite -- project name --
+# npm init vite my-project
+
+installing vuex latest version
+# npm i -S vuex@next
+
+installing vue router
+# npm i -S vue-router@next
+
+setting up tailwind
+npm i @headlessui/vue @heroicons/vue @tailwindcss/forms -S
